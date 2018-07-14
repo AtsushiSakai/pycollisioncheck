@@ -1,0 +1,2 @@
+# pycollisioncheck
+collision check library
